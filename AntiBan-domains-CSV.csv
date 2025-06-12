@@ -65,8 +65,6 @@ services.google.com.,suffix
 surveys.google.com.,suffix
 tagmanager.google.com.,suffix
 time.google.com.,suffix
-apple.com.,suffix
-iforgot.apple.com.,suffix
 googletagmanager.com.,suffix
 azure.com.,suffix
 zoom.us.,suffix
@@ -1750,7 +1748,6 @@ secure.gravatar.com.,suffix
 gravityview.com.,suffix
 hackertarget.com.,suffix
 hubapi.com.,suffix
-icloud.com.,suffix
 resources.infosecinstitute.com.,suffix
 api-iam.intercom.io.,suffix
 intertech.com.,suffix
